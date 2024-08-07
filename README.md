@@ -1,4 +1,4 @@
-### Excel sheets and scripts for NeurIPS [WANT](https://want-ai-hpc.github.io/neurips2023/callforpapers) workshop publication: 
+### Excel sheets and scripts for [COLM](https://colmweb.org/index.html) conference publication: 
 ### ["Efficient Parallelization Layouts for Large-Scale Distributed Model Training"](https://arxiv.org/abs/2311.05610)
 
 ### Cite Us
